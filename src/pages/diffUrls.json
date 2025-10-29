@@ -134,8 +134,14 @@
     ]
   },
   "0.12.0": {
+    "Zoro": [
+      "*://hianime.cx/*",
+      "*://hianime.do/*"
+    ],
     "iframe": [
-      "*://jilliandescribecompany.com/e/*"
+      "*://*.mdy48tn97.com/e/*",
+      "*://jilliandescribecompany.com/e/*",
+      "*://mikaylaarealike.com/e/*"
     ]
   }
 }
